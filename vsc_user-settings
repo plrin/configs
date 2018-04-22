@@ -1,0 +1,10 @@
+{
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 4,
+    "workbench.statusBar.feedback.visible": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line",
+    "editor.renderWhitespace": "all",
+}
