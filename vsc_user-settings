@@ -7,4 +7,21 @@
     "editor.cursorBlinking": "smooth",
     "editor.cursorStyle": "line",
     "editor.renderWhitespace": "all",
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 14,
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?_",
+    "editor.rulers": [80, 120],
+    "window.zoomLevel": 0,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.hovers.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.tree.horizontalScrolling": true,
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+
 }
