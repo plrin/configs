@@ -32,5 +32,29 @@
         "key": "shift+cmd+down",
         "command": "editor.action.moveLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "editor.action.formatDocument",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "-editor.action.formatDocument",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "cmd+backspace",
+        "command": "editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+cmd+k",
+        "command": "-editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "-workbench.action.switchWindow"
     }
 ]
