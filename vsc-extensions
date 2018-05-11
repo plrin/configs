@@ -1,13 +1,9 @@
 code --install-extension CoenraadS.bracket-pair-colorizer
-code --install-extension SirTori.indenticator
 code --install-extension akamud.vscode-theme-onelight
 code --install-extension bajdzis.vscode-twig-pack
 code --install-extension dracula-theme.theme-dracula
 code --install-extension eamodio.gitlens
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
-code --install-extension humao.rest-client
-code --install-extension michelemelluso.code-beautifier
 code --install-extension mrmlnc.vscode-scss
-code --install-extension oderwat.indent-rainbow
 code --install-extension robinbentley.sass-indented
