@@ -1,5 +1,4 @@
 code --install-extension CoenraadS.bracket-pair-colorizer
-code --install-extension akamud.vscode-theme-onelight
 code --install-extension bajdzis.vscode-twig-pack
 code --install-extension dracula-theme.theme-dracula
 code --install-extension eamodio.gitlens
