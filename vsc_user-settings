@@ -25,5 +25,7 @@
     "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
     "gitlens.historyExplorer.enabled": true,
     "gitlens.gitExplorer.files.layout": "list",
-    "gitlens.blame.format": "${author} ${date}"
+    "gitlens.blame.format": "${author} ${ago} ${date}",
+    "gitlens.blame.dateFormat": "DD.MM.YY",
+    "gitlens.blame.compact": true
 }
